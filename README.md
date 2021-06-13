@@ -1,8 +1,7 @@
-# Merhabalar , ben Esra 👋
-### Bilgisayar Mühendisiyim . PHP , Java , Web teknoojilerinde kendimi geliştiriyorum. Bu alanlarda yaptığım çalışmları inceleyip geri dönüş sağlayabilirsiniz 
-### Linkedln hesabıma [buradan](https://www.linkedin.com/in/esrako%C3%A7ak/) ulaşabilirsiniz.
+# Hi , I'm Esra 👋 😄 
+### I'm a Computer Engineer 💻. I am developing myself in PHP, Java, Web technologies. You can review my work in these areas and provide feedback.
+### Linkedln account [here](http://linkedin.com/in/esrakoçak) 
 
-### Hi there 👋
 
 
 <!--
