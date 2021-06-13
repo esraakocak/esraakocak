@@ -1,4 +1,7 @@
-### Hi there 👋
+### Merhabalar , ben Esra 👋
+#Bilgisayar Mühendisiyim . Araştırmayı ve uygulamalaar geliştirmeyi severim.
+#
+
 ### Hi there 👋
 
 
