@@ -5,7 +5,7 @@
 ## Connect with me:
 
 <p align ="left"> 
- 
+    <a href ="https://www.linkedin.com/in/esrakoçak" target ="_blank"> <img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
  
  
  
