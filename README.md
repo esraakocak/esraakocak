@@ -1,5 +1,5 @@
 # Hi , I'm Esra 👋 😄 
-### I'm a Computer Engineer 💻. I am developing myself in PHP, Java, Web technologies. You can review my work in these areas and provide feedback.
+### I'm a Computer Engineer 💻. I am developing myself in Java, Web technologies. You can review my work in these areas and provide feedback.
 
 
 ## Connect with me:
